@@ -27,4 +27,4 @@ _**Leo Kukharau**_
 
 [Link to code](./web_scraper/scraper.py)
 
-[Link to PR](https://github.com/LeoKuhorev/web-scraper/pull/2)
+[Link to PR](https://github.com/LeoKuhorev/caesar-cipher/pull/2)
