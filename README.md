@@ -18,14 +18,12 @@ _**Leo Kukharau**_
 ## Dependencies
 
 - python = "^3.8"
-- bs4 = "^0.0.1"
-- requests = "^2.24.0"
+- pytest = "^6.0.0"
+- pyenchant = "^3.1.1"
 
 ### Dev dependencies
 
-- pytest = "^5.2"
 - autopep8 = "^1.5.3"
-- pylint = "^2.5.3"
 
 [Link to code](./web_scraper/scraper.py)
 
